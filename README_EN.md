@@ -1,6 +1,6 @@
 # CitoUFSC - Feulgen Nuclei Segmentation
 
-*Para a versão em português clique <a href="https://codigos.ufsc.br/lapix/feulgen-segmentation/-/blob/master/README.md">aqui<a>.
+*Para a versão em português clique <a href="https://github.com/luizbuschetto/deep-learning-feulgen-nuclei-analysis/blob/master/README.md">aqui<a>.
 
 This repository contains the source codes for some of the works of the LAPIX research group (https://lapix.ufsc.br/) in computational cytology. These codes were used to process the cytology dataset colored with Feulgen's stain. The dataset can be found at the following link: https://arquivos.ufsc.br/d/7e7ac2f498df4cf9aa7d/. The Figure following presents an overview of the methodology used.
 
